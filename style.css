@@ -229,7 +229,7 @@ form label:hover {
   padding: 0;
 }
 .home .box {
-  min-height: 50vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   background-size: cover !important;
